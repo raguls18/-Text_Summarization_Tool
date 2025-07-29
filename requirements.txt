@@ -1,6 +1,5 @@
 streamlit
+transformers
+PyPDF2
+pillow
 torch
-torchvision
-Pillow
-numpy
-matplotlib
